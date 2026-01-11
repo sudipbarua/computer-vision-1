@@ -1,0 +1,6 @@
+*.pdf
+cv/
+*.ipynb_checkpoints
+__pycache__/
+ubung/
+Example/
